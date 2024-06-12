@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7cb366b8382eebc40ac0c5c8a38539a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelText: {instanceID: 0}
+  - satietyText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - growthStage1: {fileID: 391112010724700935, guid: 762524d5834ed3f458fe42f2a091917c, type: 3}
+  - growthStage2: {fileID: 7174496922833601677, guid: cd44c630b2f55a545a8fdad7d7583acd, type: 3}
+  - growthStage3: {fileID: 4494103741941454003, guid: 1d50887f7fd1c0441a3cec8ce31c0332, type: 3}
+  - gameOverText: {fileID: 6337851163685569761, guid: a30b02491eb4d1f47aa4f9b8f391cf63, type: 3}
+  - gameClearText: {fileID: 2359357349313002284, guid: 61ad18de7a8a88a4daa6512002d278dd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
